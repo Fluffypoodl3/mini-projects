@@ -1,1 +1,1 @@
-# mini-projects
+# Pythagorean triples 
